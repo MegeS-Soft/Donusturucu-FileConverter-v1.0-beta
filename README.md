@@ -21,10 +21,10 @@ The application is currently in **Beta** and is actively being improved based on
 
 ## 🛠️ Supported Conversions
 
-| Source File | Target File |
-|------------|-------------|
-| CSV        | Excel (.xlsx) |
-| PDF        | Word (.docx)  |
+| Source File |  Target File  |
+|-------------|---------------|
+| CSV         | Excel (.xlsx) |
+| PDF         | Word (.docx)  |
 
 ---
 
@@ -97,9 +97,10 @@ Uygulama şu anda **Beta sürümündedir** ve kullanıcı geri bildirimlerine g�
 ## 🛠️ Desteklenen Dönüşümler
 
 | Kaynak Dosya | Hedef Dosya |
-|--------------|-------------|
-| CSV          | Excel (.xlsx) |
-| PDF          | Word (.docx)  |
+|--------------|--------------|
+| CSV          | Excel (.xlsx)|
+| PDF          | Word (.docx) |
+
 
 ---
 
@@ -149,5 +150,4 @@ Bu ne anlama gelir?
 - Performans optimizasyonları
 - Yeni dosya formatı destekleri
 - Kullanıcı deneyimi geliştirmeleri
-
-planlanmaktadır.
+  planlanmaktadır.
